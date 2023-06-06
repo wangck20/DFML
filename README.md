@@ -3,7 +3,7 @@
 This repository is the official implementation of **Deep Factorized Metric Learning**. 
 
 Architecturally, our DCML framework is as follows:
-![Architecture](framework.png)
+![Architecture](pipeline.png)
 
 ## Datasets 
 The datasets should be organized in the data folder.
