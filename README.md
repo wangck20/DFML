@@ -104,7 +104,7 @@ CUDA_VISIBLE_DEVICES=0 python train.py \
 ```
 
 | Method | Backbone | R@1 | R@2 | NMI | RP | MAP@R |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | DFML-PA | ResNet-50 | 79.1 | 86.8 | 80.2 | 47.3 | 37.4 |
 
 ### Cars196
@@ -126,7 +126,7 @@ CUDA_VISIBLE_DEVICES=0 python train.py \
 ```
 
 | Method | Backbone | R@1 | R@2 | NMI | RP | MAP@R |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | IDML-PA | ResNet-50 | 89.5 | 93.9 | 76.8 | 40.6 | 31.0 |
 
 ### Stanford_Online_Products
